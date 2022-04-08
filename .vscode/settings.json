@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "poppack.h": "c",
+        "windows.h": "c"
+    }
+}
